@@ -1,5 +1,5 @@
 # Pytugol
-Experimental project for NPortugol compiler using chatGPT API
+Experimental project for structured portuguese (portugol) compiler using chatGPT API
 
 Examples:
 
