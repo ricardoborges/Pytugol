@@ -1,0 +1,7 @@
+função soma(a, b)
+    retorne a + b
+fim
+
+função principal()
+    imprima(soma(2,3))
+fim
